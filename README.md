@@ -1,4 +1,4 @@
-# India AQI Dashboard (2015–2025)
+# India AQI Dashboard (2015–2020)
 
 Interactive Excel dashboard analyzing Air Quality Index (AQI)
 across Indian cities.
@@ -18,3 +18,5 @@ Here is a snapshot of the AQI Dashboard:
 
 ## Tool Used
 - Microsoft Excel
+- Pivot
+- Charts
